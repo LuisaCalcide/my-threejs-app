@@ -1,0 +1,15 @@
+import * as THREE from 'three';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <p>
+          My Three.js app
+        </p>
+      </header>
+    </div>
+  );
+}
+
+export default App;
