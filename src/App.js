@@ -1,4 +1,8 @@
-import * as THREE from 'three';
+//import BasicCube from './BasicCube';
+//import TextRotation from './TextRotation';
+//import GlobalTexture from './GlobalTexture';
+import './BasicVrCube';
+//import DragMultiCubes from './DragMultiCubes';
 
 function App() {
   return (
